@@ -1,0 +1,40 @@
+0000000000000000000000000000000000000000 0bd5d1313959fecdece2030ee206d7ca4c35cef4 Marcos Borges <marcsalexandr@gmail.com> 1611667263 -0300	commit (initial): Handling exceptions and clearing screen
+0bd5d1313959fecdece2030ee206d7ca4c35cef4 0bd5d1313959fecdece2030ee206d7ca4c35cef4 Marcos Borges <marcsalexandr@gmail.com> 1611668491 -0300	Branch: renamed refs/heads/master to refs/heads/main
+0bd5d1313959fecdece2030ee206d7ca4c35cef4 213eb0f2ab5ccd9a9c5beaa54967aef1921e8d10 Marcos Borges <marcsalexandr@gmail.com> 1611671245 -0300	commit: Handling exceptions and clearing screen
+213eb0f2ab5ccd9a9c5beaa54967aef1921e8d10 b34f8bd5d0d0b4b013a0b9edb85add710ad6d887 Marcos Borges <marcsalexandr@gmail.com> 1611677039 -0300	commit: Possible moves of a piece
+b34f8bd5d0d0b4b013a0b9edb85add710ad6d887 3fc61a676c849aea9a4352e8698850a2763ef9b0 Marcos Borges <marcsalexandr@gmail.com> 1611750201 -0300	commit: Implementing possible moves of Rook
+3fc61a676c849aea9a4352e8698850a2763ef9b0 2efdae211173688745a7a5df872f35b9d73245f2 Marcos Borges <marcsalexandr@gmail.com> 1611775428 -0300	commit: Printing possible moves
+2efdae211173688745a7a5df872f35b9d73245f2 8a8d4fe145cfa4f25829642d48342f092305ffe3 Marcos Borges <marcsalexandr@gmail.com> 1611838592 -0300	commit: Implementing possible moves of King
+8a8d4fe145cfa4f25829642d48342f092305ffe3 15a48ac2a2bb735252e63e9780e03e8898fd852c Marcos Borges <marcsalexandr@gmail.com> 1611841633 -0300	commit: Switching player each turn
+15a48ac2a2bb735252e63e9780e03e8898fd852c 078a2a7c90660c5ac66377f826504f1c7fa8a825 Marcos Borges <marcsalexandr@gmail.com> 1611920985 -0300	commit: add tudo
+078a2a7c90660c5ac66377f826504f1c7fa8a825 da49f5a66459c3d9bd7ab127b9dc896ad96930f0 Marcos Borges <marcsalexandr@gmail.com> 1611927461 -0300	commit (amend): add tudo
+da49f5a66459c3d9bd7ab127b9dc896ad96930f0 7633c0e623492371c2cd9033be398787d9daeb27 Marcos Borges <marcsalexandr@gmail.com> 1611927796 -0300	commit (amend): add tudo
+7633c0e623492371c2cd9033be398787d9daeb27 f94b9c344f41b85516c46da74839e428e682c822 Marcos Borges <marcsalexandr@gmail.com> 1611927908 -0300	commit (amend): add tudo
+f94b9c344f41b85516c46da74839e428e682c822 c8f2d7cbd1df7ebaba39d4860da0023c88f1bc2b Marcos Borges <marcsalexandr@gmail.com> 1611947260 -0300	commit: check logic
+c8f2d7cbd1df7ebaba39d4860da0023c88f1bc2b 3411ef72fc4c912c5f2b276f1cebb24b11d4b94a Marcos Borges <marcsalexandr@gmail.com> 1612034016 -0300	commit: Checkmate logic
+3411ef72fc4c912c5f2b276f1cebb24b11d4b94a cd93e68a95011de14d20bafff3d4ca9dff972323 Marcos Borges <marcsalexandr@gmail.com> 1612088717 -0300	commit: Piece move count
+cd93e68a95011de14d20bafff3d4ca9dff972323 878736dfe22c0484c9fcb75e27ef85749d713cc6 Marcos Borges <marcsalexandr@gmail.com> 1612191174 -0300	commit: Pawn
+878736dfe22c0484c9fcb75e27ef85749d713cc6 c536091d6975b64fa860e60160571615757e464b Marcos Borges <marcsalexandr@gmail.com> 1612215624 -0300	commit: Bishop
+c536091d6975b64fa860e60160571615757e464b 2a221a6f88be70a12116d0cbd054b30786bc1110 Marcos Borges <marcsalexandr@gmail.com> 1612218167 -0300	commit: Knight
+2a221a6f88be70a12116d0cbd054b30786bc1110 e7571f6099a60fffc7e73b7a1d8630eec46f8e88 Marcos Borges <marcsalexandr@gmail.com> 1612224533 -0300	commit: Queen (and Pawn bugfix)
+e7571f6099a60fffc7e73b7a1d8630eec46f8e88 17b2d9c39989fc9ef3312ce3898fa332028822c0 Marcos Borges <marcsalexandr@gmail.com> 1612291979 -0300	commit: Special move - Castling
+17b2d9c39989fc9ef3312ce3898fa332028822c0 e67005055d1be964fc759af5927aab7d0c208320 Marcos Borges <marcsalexandr@gmail.com> 1612350347 -0300	commit: Special move - En Passant
+e67005055d1be964fc759af5927aab7d0c208320 64170c68037fd41a665e16ef9d004b92c2f584f6 Marcos Borges <marcsalexandr@gmail.com> 1612363138 -0300	commit: Special move - Promotion
+64170c68037fd41a665e16ef9d004b92c2f584f6 64170c68037fd41a665e16ef9d004b92c2f584f6 Marcos Borges <marcsalexandr@gmail.com> 1612379990 -0300	Branch: renamed refs/heads/main to refs/heads/master
+64170c68037fd41a665e16ef9d004b92c2f584f6 31be35046654cd653734c2d330bce76a5d4801bc Marcos Borges <marcsalexandr@gmail.com> 1612445296 -0300	commit: Projeto de Xadrez
+31be35046654cd653734c2d330bce76a5d4801bc 6dcbf040fc6fca5934f8f88fe3261c0c2d491740 Marcos Borges <marcsalexandr@gmail.com> 1612445444 -0300	commit: first commit
+6dcbf040fc6fca5934f8f88fe3261c0c2d491740 6dcbf040fc6fca5934f8f88fe3261c0c2d491740 Marcos Borges <marcsalexandr@gmail.com> 1612445459 -0300	Branch: renamed refs/heads/master to refs/heads/main
+6dcbf040fc6fca5934f8f88fe3261c0c2d491740 6dcbf040fc6fca5934f8f88fe3261c0c2d491740 Marcos Borges <marcsalexandr@gmail.com> 1612445688 -0300	Branch: renamed refs/heads/main to refs/heads/main
+6dcbf040fc6fca5934f8f88fe3261c0c2d491740 6dcbf040fc6fca5934f8f88fe3261c0c2d491740 Marcos Borges <marcsalexandr@gmail.com> 1612446517 -0300	Branch: renamed refs/heads/main to refs/heads/main
+6dcbf040fc6fca5934f8f88fe3261c0c2d491740 6dcbf040fc6fca5934f8f88fe3261c0c2d491740 Marcos Borges <marcsalexandr@gmail.com> 1612450190 -0300	Branch: renamed refs/heads/main to refs/heads/main
+6dcbf040fc6fca5934f8f88fe3261c0c2d491740 2a9b66b36876e3c0126143dc89208f0b559adfc7 Marcos Borges <marcsalexandr@gmail.com> 1612452260 -0300	commit: first commit
+2a9b66b36876e3c0126143dc89208f0b559adfc7 2a9b66b36876e3c0126143dc89208f0b559adfc7 Marcos Borges <marcsalexandr@gmail.com> 1612452273 -0300	Branch: renamed refs/heads/main to refs/heads/main
+2a9b66b36876e3c0126143dc89208f0b559adfc7 2a9b66b36876e3c0126143dc89208f0b559adfc7 Marcos Borges <marcsalexandr@gmail.com> 1612453287 -0300	Branch: renamed refs/heads/main to refs/heads/main
+2a9b66b36876e3c0126143dc89208f0b559adfc7 58e27347896e13777bdd07d0bc58e5ab07e2727e Marcos Borges <marcsalexandr@gmail.com> 1612453418 -0300	commit: first commit
+58e27347896e13777bdd07d0bc58e5ab07e2727e 58e27347896e13777bdd07d0bc58e5ab07e2727e Marcos Borges <marcsalexandr@gmail.com> 1612453431 -0300	Branch: renamed refs/heads/main to refs/heads/main
+58e27347896e13777bdd07d0bc58e5ab07e2727e 377fe2ee1ba0de5614b08c13e3339913b2212094 Marcos Borges <marcsalexandr@gmail.com> 1612458210 -0300	commit: first commit
+377fe2ee1ba0de5614b08c13e3339913b2212094 377fe2ee1ba0de5614b08c13e3339913b2212094 Marcos Borges <marcsalexandr@gmail.com> 1612458211 -0300	Branch: renamed refs/heads/main to refs/heads/main
+377fe2ee1ba0de5614b08c13e3339913b2212094 377fe2ee1ba0de5614b08c13e3339913b2212094 Marcos Borges <marcsalexandr@gmail.com> 1612464322 -0300	Branch: renamed refs/heads/main to refs/heads/master
+377fe2ee1ba0de5614b08c13e3339913b2212094 7e1983bc0ad5edae68711b3f3d607abb91ef26b1 Marcos Borges <marcsalexandr@gmail.com> 1612465358 -0300	commit: first commit
+7e1983bc0ad5edae68711b3f3d607abb91ef26b1 f2de14f79fc128f3a0d114bcd8812ff74d42c473 Marcos Borges <marcsalexandr@gmail.com> 1612467614 -0300	commit: Projeto Xadrez
+f2de14f79fc128f3a0d114bcd8812ff74d42c473 411ccec6a6dcd20a2612872524cc235a4347688c Marcos Borges <marcsalexandr@gmail.com> 1612526065 -0300	commit: chess-system
